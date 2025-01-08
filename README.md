@@ -7,3 +7,5 @@ Knowledge:
 
 Currently working on:
  - Lichess ♟️
+
+Reach me: marckoovka@gmail.com ✉️
