@@ -6,7 +6,6 @@ Knowledge:
  - Dart (Flutter) 🔆
 
 Currently working on:
- - Lichess ♟️
  - Flutter Apps 📱
  - Python projects 🔥
 
